@@ -1,52 +1,35 @@
 {
-  "wallpapers": [
-    {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/1.jpg",
-      "name": "1",
-      "thumbnail":
-    },
-    {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/2.jpg",
-      "name": "2",
-      "thumbnail":
-    },
-    {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/3.jpg",
-      "name":"3",
-      "thumbnail":
-    },
-  {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/4.png",
-      "name":"4",
-      "thumbnail":
-    },
-  {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/5.jpg",
-      "name":"5",
-      "thumbnail":
-    },
-  {
-      "author": "Milkncookies",
-      "url": "https://github.com/OdysseasKar/milkncookiez/blob/master/6.jpg",
-      "name":"6",
-      "thumbnail":
-    }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  ]
+	"wallpapers": [{
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/1.jpg",
+			"name": "1"
+
+		}, {
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/2.jpg",
+			"name": "2"
+
+		}, {
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/3.jpg",
+			"name": "3"
+
+		}, {
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/4.png",
+			"name": "4"
+
+		}, {
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/5.jpg",
+			"name": "5"
+
+		}, {
+			"author": "Milkncookies",
+			"url": "https://github.com/OdysseasKar/milkncookiez/blob/master/6.jpg",
+			"name": "6"
+
+		}
+
+	]
 }
