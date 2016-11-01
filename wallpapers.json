@@ -2,33 +2,33 @@
 	"wallpapers": [{
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/1.jpg",
-			"name": "1"
-
+			"name": "1",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/1.jpg"
 		}, {
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/2.jpg",
-			"name": "2"
-
+			"name": "2",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/2.jpg"
 		}, {
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/3.jpg",
-			"name": "3"
-
+			"name": "3",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/3.jpg"
 		}, {
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/4.png",
-			"name": "4"
-
+			"name": "4",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/4.png"
 		}, {
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/5.jpg",
-			"name": "5"
-
+			"name": "5",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/5.jpg"
 		}, {
 			"author": "Milkncookies",
 			"url": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/6.jpg",
-			"name": "6"
-
+			"name": "6",
+                        "thumbnail": "https://raw.githubusercontent.com/OdysseasKar/milkncookiez/master/6.jpg"
 		}
 
 	]
